@@ -1,7 +1,7 @@
 # Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting (ICLR 2023)
 Official Implementation of [**L**earning **w**ithout **P**rejudices (LwP)](https://openreview.net/forum?id=gfPUokHsW-), accepted at ICLR 2023.
 
-```
+```bib
 @inproceedings{
 jeon2023learning,
 title={Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting},
